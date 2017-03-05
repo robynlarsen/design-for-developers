@@ -1,5 +1,6 @@
 # Design for Developers
 ## Outline
+What do we want them to get out of it? 
 
 ### 1. Design Overview
 * User Interface
