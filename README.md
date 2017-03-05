@@ -34,5 +34,6 @@
 * The restrictions
 * Design Decisions
 * When to outsource
+* Real Examples
   * [robynlarsen.ca](robynlarsen.ca)
   * [zonaFitness.academy](zonaFitness.academy)
