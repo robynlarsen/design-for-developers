@@ -16,6 +16,7 @@
 * Front End Development
 
 ### 2. My own personal process
+#### Is there anything special about your process? No Is self focused content a common practice in the design world? There are a million ways to skin a cat. 
 * Goals for the business
 * Pinterest Board & collecting inspiration
 * Pull out, copy, tweak
