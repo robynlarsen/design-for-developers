@@ -1,9 +1,7 @@
 # Design for Developers
 ## Outline
 
-# Outline
-
-1. Design Overview
+### 1. Design Overview
 * User Interface
 * User Experience
 ** the yellow brick road
@@ -17,7 +15,7 @@
 ** Wireframing
 * Front End Development
 
-2. My own personal process
+### 2. My own personal process
 * Goals for the business
 * Pinterest Board & collecting inspiration
 * Pull out and copy then tweak
@@ -27,11 +25,11 @@
 * Start with a sketch of some kinda - wireframing
 * Allows you to keep up with the trends in the industry
 
-3. Designing for Products
+### 3. Designing for Products
 * Goals
 * Asking questions
 
-4. Case Studies
+### 4. Case Studies
 * The How
 * The restrictions
 * Design Decisions
