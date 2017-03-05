@@ -19,7 +19,7 @@
 * Front End Development
 
 ### 2. A Design Process
-#### Is there anything special about your process? No Is self focused content a common practice in the design world? There are a million ways to skin a cat. This is only one way to do things. Once you start navigating through this you will go through the process yourself and find what works for you. 
+Is there anything special about your process? No Is self focused content a common practice in the design world? There are a million ways to skin a cat. This is only one way to do things. Once you start navigating through this you will go through the process yourself and find what works for you. 
 * Goals for the business
 * Pinterest Board & collecting inspiration
 * Pull out, copy, tweak
