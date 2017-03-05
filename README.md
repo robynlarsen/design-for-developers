@@ -11,8 +11,11 @@
   * Always about recognizable essence and simplicity
   * Know your strengths - Stuff I always outsource
 * Iconography
+* Color Theory
 * Typography
 * Wireframing
+* Pattern Library (Atomic Design)
+* Responsive Web Design
 * Front End Development
 
 ### 2. A Design Process
