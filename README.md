@@ -15,6 +15,7 @@
 * Color Theory
 * Typography
 * Wireframing
+* Information Architecture 
 * Pattern Library (Atomic Design)
 * Responsive Web Design
 * Front End Development
@@ -35,6 +36,7 @@ Is there anything special about your process? No Is self focused content a commo
 * Goals
 * The importance of creative goals and expectation management?
 * Asking questions
+* Without coupling your code with design, the users/customers won't get as much value out of 
 
 ### 4. Case Studies
 * The How
@@ -45,4 +47,3 @@ Is there anything special about your process? No Is self focused content a commo
   * [robynlarsen.ca](robynlarsen.ca)
   * [zonaFitness.academy](zonaFitness.academy)
    * Goals & requirments
-   * 
