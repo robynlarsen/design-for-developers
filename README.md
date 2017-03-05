@@ -15,8 +15,8 @@
 * Wireframing
 * Front End Development
 
-### 2. My own personal process
-#### Is there anything special about your process? No Is self focused content a common practice in the design world? There are a million ways to skin a cat. 
+### 2. A Design Process
+#### Is there anything special about your process? No Is self focused content a common practice in the design world? There are a million ways to skin a cat. This is only one way to do things. Once you start navigating through this you will go through the process yourself and find what works for you. 
 * Goals for the business
 * Pinterest Board & collecting inspiration
 * Pull out, copy, tweak
@@ -29,6 +29,7 @@
 
 ### 3. Designing for Products
 * Goals
+* The importance of creative goals and expectation management?
 * Asking questions
 
 ### 4. Case Studies
@@ -39,3 +40,5 @@
 * Real Examples
   * [robynlarsen.ca](robynlarsen.ca)
   * [zonaFitness.academy](zonaFitness.academy)
+   * Goals & requirments
+   * 
