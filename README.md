@@ -9,20 +9,21 @@
   * Always do black and white first
   * Less is more
   * Always about recognizable essence and simplicity
+  * Know your strengths - Stuff I always outsource
 * Iconography
 * Typography
-* Know your strengths - Stuff I always outsource
-  * Wireframing
+* Wireframing
 * Front End Development
 
 ### 2. My own personal process
 * Goals for the business
 * Pinterest Board & collecting inspiration
-* Pull out and copy then tweak
-* Speed along the process and influence your design
-* Styles come and go
-* Not good to start with a blank screen
-* Start with a sketch of some kinda - wireframing
+* Pull out, copy, tweak
+ * Speed along the process and influence your design
+ * Styles come and go
+* Wireframing 
+ * Start with a sketch of some kinda not with a blank illustrator or sketch artboard
+ * Not good to start with a blank screen
 * Allows you to keep up with the trends in the industry
 
 ### 3. Designing for Products
