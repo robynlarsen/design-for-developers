@@ -4,15 +4,15 @@
 ### 1. Design Overview
 * User Interface
 * User Experience
-** the yellow brick road
+  * the yellow brick road
 * Branding & Logos
-** Always do black and white first
-** Less is more
-** Always about recognizable essence and simplicity
+  * Always do black and white first
+  * Less is more
+  * Always about recognizable essence and simplicity
 * Iconography
 * Typography
 * Know your strengths - Stuff I always outsource
-** Wireframing
+  * Wireframing
 * Front End Development
 
 ### 2. My own personal process
@@ -34,5 +34,5 @@
 * The restrictions
 * Design Decisions
 * When to outsource
-** robynlarsen.ca
-** zonaFitness.academy
+  * [robynlarsen.ca](robynlarsen.ca)
+  * [zonaFitness.academy](zonaFitness.academy)
