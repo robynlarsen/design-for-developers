@@ -1,6 +1,6 @@
 # Design for Developers
 ## Outline
-What do we want them to get out of it? 
+What do we want them to get out of it? What can I use as a starting point as I work on my own project or product?
 
 ### 1. Design Overview
 * User Interface
